@@ -1,0 +1,6 @@
+{
+  "name": "ThinkSpace AI",
+  "description": "An elegant smart AI notepad and workspace with persistent Gemini chats and offline local sqlite storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

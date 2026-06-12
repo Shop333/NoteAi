@@ -1,0 +1,9 @@
+{
+  "name": "android-applet",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Android emulator runs in background'",
+    "build": "echo 'Building Android App...'"
+  }
+}
